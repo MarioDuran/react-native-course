@@ -1,0 +1,102 @@
+{
+  "profesores": [
+    {
+      "id": 1,
+      "nombre": "Mario"
+    },
+    {
+      "id": 2,
+      "nombre": "Francisco"
+    },
+    {
+      "id": 3,
+      "nombre": "Ana"
+    }
+  ],
+  "estudiantes": [
+    {
+      "id": 4,
+      "nombre": "Jorge"
+    },
+    {
+      "id": 5,
+      "nombre": "Daniel"
+    },
+    {
+      "id": 6,
+      "nombre": "Daniela"
+    },
+    {
+      "id": 7,
+      "nombre": "Mariana"
+    },
+    {
+      "id": 8,
+      "nombre": "Bruno"
+    },
+    {
+      "id": 9,
+      "nombre": "Ramon"
+    },
+    {
+      "id": 10,
+      "nombre": "Fernanda"
+    },
+    {
+      "id": 11,
+      "nombre": "Héctor"
+    },
+    {
+      "id": 12,
+      "nombre": "Daniel"
+    },
+    {
+      "id": 13,
+      "nombre": "Jesus"
+    },
+    {
+      "id": 14,
+      "nombre": "Aarón"
+    },
+    {
+      "id": 15,
+      "nombre": "Cristian"
+    },
+    {
+      "id": 16,
+      "nombre": "Santiago"
+    },
+    {
+      "id": 17,
+      "nombre": "Leonardo"
+    },
+    {
+      "id": 18,
+      "nombre": "Francisco"
+    },
+    {
+      "id": 19,
+      "nombre": "Camila"
+    },
+    {
+      "id": 20,
+      "nombre": "Andrés"
+    },
+    {
+      "id": 21,
+      "nombre": "José"
+    },
+    {
+      "id": 22,
+      "nombre": "Martín"
+    },
+    {
+      "id": 23,
+      "nombre": "Uma"
+    },
+    {
+      "id": 24,
+      "nombre": "Kevin"
+    }
+  ]
+}
