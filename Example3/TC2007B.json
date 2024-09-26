@@ -1,102 +1,38 @@
 {
-  "profesores": [
+  "TC2007B": [
     {
-      "id": 1,
-      "nombre": "Mario"
+      "title": "Profesores",
+      "data": [
+        { "id": 1, "name": "Mario" },
+        { "id": 2, "name": "Francisco" },
+        { "id": 3, "name": "Ana" }
+      ]
     },
     {
-      "id": 2,
-      "nombre": "Francisco"
-    },
-    {
-      "id": 3,
-      "nombre": "Ana"
-    }
-  ],
-  "estudiantes": [
-    {
-      "id": 4,
-      "nombre": "Jorge"
-    },
-    {
-      "id": 5,
-      "nombre": "Daniel"
-    },
-    {
-      "id": 6,
-      "nombre": "Daniela"
-    },
-    {
-      "id": 7,
-      "nombre": "Mariana"
-    },
-    {
-      "id": 8,
-      "nombre": "Bruno"
-    },
-    {
-      "id": 9,
-      "nombre": "Ramon"
-    },
-    {
-      "id": 10,
-      "nombre": "Fernanda"
-    },
-    {
-      "id": 11,
-      "nombre": "Héctor"
-    },
-    {
-      "id": 12,
-      "nombre": "Daniel"
-    },
-    {
-      "id": 13,
-      "nombre": "Jesus"
-    },
-    {
-      "id": 14,
-      "nombre": "Aarón"
-    },
-    {
-      "id": 15,
-      "nombre": "Cristian"
-    },
-    {
-      "id": 16,
-      "nombre": "Santiago"
-    },
-    {
-      "id": 17,
-      "nombre": "Leonardo"
-    },
-    {
-      "id": 18,
-      "nombre": "Francisco"
-    },
-    {
-      "id": 19,
-      "nombre": "Camila"
-    },
-    {
-      "id": 20,
-      "nombre": "Andrés"
-    },
-    {
-      "id": 21,
-      "nombre": "José"
-    },
-    {
-      "id": 22,
-      "nombre": "Martín"
-    },
-    {
-      "id": 23,
-      "nombre": "Uma"
-    },
-    {
-      "id": 24,
-      "nombre": "Kevin"
+      "title": "Alumnos",
+      "data": [
+        { "id": 4, "name": "Jorge" },
+        { "id": 5, "name": "Daniel" },
+        { "id": 6, "name": "Daniela" },
+        { "id": 7, "name": "Mariana" },
+        { "id": 8, "name": "Bruno" },
+        { "id": 9, "name": "Ramon" },
+        { "id": 10, "name": "Fernanda" },
+        { "id": 11, "name": "Héctor" },
+        { "id": 12, "name": "Daniel" },
+        { "id": 13, "name": "Jesus" },
+        { "id": 14, "name": "Aarón" },
+        { "id": 15, "name": "Cristian" },
+        { "id": 16, "name": "Santiago" },
+        { "id": 17, "name": "Leonardo" },
+        { "id": 18, "name": "Francisco" },
+        { "id": 19, "name": "Camila" },
+        { "id": 20, "name": "Andrés" },
+        { "id": 21, "name": "José" },
+        { "id": 22, "name": "Martín" },
+        { "id": 23, "name": "Uma" },
+        { "id": 24, "name": "Kevin" }
+      ]
     }
   ]
 }
