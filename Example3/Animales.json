@@ -1,0 +1,44 @@
+{
+  "animals": [
+    {
+      "name": "León",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/002_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg/500px-002_The_lion_king_Snyggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg"
+    },
+    {
+      "name": "Tigre",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Tigress_at_Jim_Corbett_National_Park.jpg/1280px-Tigress_at_Jim_Corbett_National_Park.jpg"
+    },
+    {
+      "name": "Elefante",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Elephant_wild_Elephant_01.jpg/2560px-Elephant_wild_Elephant_01.jpg"
+    },
+    {
+      "name": "Cebra",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Beautiful_Zebra_in_South_Africa.JPG/2560px-Beautiful_Zebra_in_South_Africa.JPG"
+    },
+    {
+      "name": "Jirafa",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Giraffa_camelopardalis_reticulata_01.JPG/1280px-Giraffa_camelopardalis_reticulata_01.JPG"
+    },
+    {
+      "name": "Oso Polar",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Polar_Bear_-_Alaska.jpg"
+    },
+    {
+      "name": "Pingüino",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Manchot_01.jpg"
+    },
+    {
+      "name": "Lobo",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Canis_lupus_265b.jpg"
+    },
+    {
+      "name": "Canguro",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Kangaroo_and_joey03.jpg"
+    },
+    {
+      "name": "Koala",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Koala_climbing_tree.jpg"
+    }
+  ]
+}
