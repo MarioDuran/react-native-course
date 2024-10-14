@@ -4,7 +4,7 @@ import { TodoController } from '../controller/TodoController';
 import { Todo } from '../model/Todo';
 import { FontAwesome } from '@expo/vector-icons'; 
 
-const TodoView: React.FC = () => {
+const TodoView = () => {
   const [controller] = useState(new TodoController());
   const [todos, setTodos] = useState<Todo[]>([]);
   const [newTodo, setNewTodo] = useState('');
