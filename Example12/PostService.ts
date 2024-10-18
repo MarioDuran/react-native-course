@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://demo-01-0cbh.onrender.com/api/posts';
+const API_URL = 'https://server02-bliw.onrender.com/api/posts';
 
 export interface Post {
   id: number;
@@ -36,6 +36,3 @@ class PostService {
 }
 
 export default new PostService();
-
-
-postgresql://simplesocialnetwork_user:Dyg3mlbGeJXraVHhTlRz6ZIehZKeBjuL@dpg-cs8q82lsvqrc739l9180-a/simplesocialnetwork
