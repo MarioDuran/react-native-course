@@ -1,0 +1,11 @@
+ID de Venta,Fecha,Producto,Cantidad,Precio Unitario,Descuento,Total,Vendedor
+011,2023-10-01,Procesador,1,250.00,5%,237.50,Juan
+012,2023-10-01,Memoria RAM,2,80.00,0%,160.00,María
+013,2023-10-02,Disco Duro SSD,1,100.00,10%,90.00,Pablo
+014,2023-10-02,Placa Madre,1,150.00,5%,142.50,Juan
+015,2023-10-03,Tarjeta Gráfica,1,400.00,0%,400.00,Carmen
+016,2023-10-04,Fuente de Poder,2,60.00,0%,120.00,Pedro
+017,2023-10-05,Enfriamiento Líquido,1,120.00,10%,108.00,Carmen
+018,2023-10-06,Torre PC,1,70.00,5%,66.50,María
+019,2023-10-07,Teclado Mecánico,3,50.00,0%,150.00,Pedro
+020,2023-10-08,Mouse Gaming,4,30.00,10%,108.00,Juan
