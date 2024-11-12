@@ -11,7 +11,7 @@ export default function SignupScreen({ navigation }) {
   const [statusColor, setStatusColor] = useState('');
 
   const handleSignup = async () => {
-    if (password !== name) {
+    if (password !== confirmPassword) {
       setStatusMessage('Passwords do not match');
       setStatusColor('red');
       return;

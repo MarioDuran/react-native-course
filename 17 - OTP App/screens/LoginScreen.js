@@ -31,8 +31,8 @@ export default function LoginScreen({ navigation }) {
       />
       <TextInput
         placeholder="Password"
-        value={email}
-        onChangeText={setEmail}
+        value={password}
+        onChangeText={setPassword}
         secureTextEntry
         style={styles.input}
       />

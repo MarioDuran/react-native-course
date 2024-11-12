@@ -16,8 +16,8 @@ export default function OTPScreen({ route, navigation }) {
 
       if (response.status === 200) {
         Alert.alert('OTP Verified', 'You have successfully verified your OTP.');
-      } else {
         navigation.navigate('Home');
+      } else {
         Alert.alert('Invalid OTP', 'Please try again.');
       }
     } catch (error) {

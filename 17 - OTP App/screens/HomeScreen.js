@@ -11,7 +11,7 @@ export default function HomeScreen() {
     try {
       const response = await api.get('/posts');
       console.log(response.data);
-      setPosts(response.data);
+      setPosts([response.data]);
     } catch (error) {
       console.error('Error fetching posts:', error);
       Alert.alert('Error', 'Failed to fetch posts');
