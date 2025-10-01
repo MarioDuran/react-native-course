@@ -1,3 +1,4 @@
+//'https://raw.githubusercontent.com/MarioDuran/react-native-course/refs/heads/main/Example3/Animales.json'
 import { Text, View, Image, StyleSheet, SectionList } from 'react-native';
 
 const Cell = (props) => {
